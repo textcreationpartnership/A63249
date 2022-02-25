@@ -1,0 +1,987 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Trip to the D----l's summer-house, or, A journey to the Wells with the old preaching Quaker's sermon to the London-mobb.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1704</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63249</idno>
+            <idno type="STC">Wing T2285A</idno>
+            <idno type="STC">ESTC N13867</idno>
+            <idno type="EEBO-CITATION">09618887</idno>
+            <idno type="OCLC">ocm 09618887</idno>
+            <idno type="VID">43822</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63249)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43822)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1344:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Trip to the D----l's summer-house, or, A journey to the Wells with the old preaching Quaker's sermon to the London-mobb.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1704?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:43822:1"/>
+            <pb n="1" facs="tcp:43822:1"/>
+            <head>A TRIP to the D—l<hi>'s Summer-Houſe:</hi> OR, A Journey to the WELLS: With the Old Preaching <hi>Quaker's,</hi> SERMON to the <hi>London-Mobb.</hi>
+            </head>
+            <lg>
+               <l>WHen the Spring of the Year had arriv'd at its Prime;</l>
+               <l>When inanimate <hi>Bodies had Dreſt themſelves Fine</hi>
+               </l>
+               <l>When Nature had put off her Winterly Shroud,</l>
+               <l>Took delight in her ſelf, and began to grow Proud;</l>
+               <l>When the Luſts of the Fleſh, and the heat of the Weather,</l>
+               <l>Sends Men into Hoſpitals, whole Droves together;</l>
+               <l>When Satan has ſo the Poor Females poſſeſt,</l>
+               <l>That the Women beleive 'tis a Sin to be Chaſte;</l>
+               <l>When th' Immoderate Seaſon of Summer was come,</l>
+               <l>Diſeaſing Old Men, and Diſtrcting the Young,</l>
+               <l>My Fancy one Morning began to Preamble,</l>
+               <l>I found my ſelf rarely diſpos'd for a Ramble;</l>
+               <l>I conſider'd for ſome time which way to Repair,</l>
+               <l>And at laſt I concluded, and Pitch'd on the <hi>Fair;</hi>
+               </l>
+               <l>That Harbour of Vice for Young Sinners to Steer-in,</l>
+               <l>Set apart by the D—l for Lying and Swearing.</l>
+               <l>In order for Journey I Hurry'd along,</l>
+               <l>As far as St. <hi>Gile<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> in the Feilds, whereupon</l>
+               <l>I was thinking to ſhorten my way, and ſo I croſt</l>
+               <l>To an Alley, and there I made ſhift to be loſt;</l>
+               <l>I Blunder'd thro'-<gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, but cou'd not tell where,</l>
+               <l>But this I can tell thro' a great deal of Mire,</l>
+               <l>As if in the Dirt I wou'd take my Degrees,</l>
+               <l>I was firſt to the Ankles, then up to the Knees:</l>
+               <l>Withall ſuch a Poys'nous ſtink did infect-me,</l>
+               <l>Add to this my Concern, 'twas enough to deſtract me:</l>
+               <l>But ſtill I continu'd, and kept on my Courſe,</l>
+               <l>For what need I fear when I cou'd not be worſe,</l>
+               <l>At laſt 'twas my Fortune to come to a <hi>Lane,</hi>
+               </l>
+               <l>That brought me direct to the Haven of Sin,</l>
+            </lg>
+            <lg>
+               <l>The Firſt that came by was a Feminine Croud,</l>
+               <l>Indifferent Handſome, but Damnable Proud.</l>
+               <l>Great Ladies Attended, and ſuch ſort of Creatures,</l>
+               <l>Who, like all their Sex, are ſubdu'd by their Natures,</l>
+               <l>A pack of Inticeing Intemperate Jades,</l>
+               <l>Who thinks 'tis a ſhame to be Twenty and Maids.</l>
+               <l>They were Nicely Tuckt up, and Bedeckt I'll aſſure-ye,</l>
+               <l>Not a Hair on their Heads, but was Fram'd to allure-ye:</l>
+               <l>Perfum'd with an Air they deſign'd, I ſuppoſe,</l>
+               <l>To Trap all the Fools that they met, by the Noſe:</l>
+               <l>The Scent was ſo ſtrong, that a Man I'll declare,</l>
+               <l>Might have followed the W—s, as the Dog does a Hare,</l>
+               <l>They Tript it with Motion as light as a Feather,</l>
+               <l>Their Heads and their Heels went exactly together;</l>
+               <l>Not Bending too Forwards nor Backwards too much,</l>
+               <l>Since either extream wou'd produce a Reproach.</l>
+            </lg>
+            <lg>
+               <l>Then Follow'd a ſluggiſh Aſſembly of Drones,</l>
+               <l>A Scurrilous Iſſue call'd <hi>Gentlemens Sons;</hi>
+               </l>
+               <l>Who live on the Fat of the Land, and Devour</l>
+               <l>Whatſoever is got by the Sweat of the Poor:</l>
+               <l>That follows Examples of being profuſe,</l>
+               <l>And thinks 'tis a Vertue, becauſe 'tis an Uſe;</l>
+               <l>Debauching themſelves while their Youth is but Green,</l>
+               <l>And Scorns to be Chaſte, after Age of Fifteen:</l>
+               <l>When grown to be Men they are worſe than before,</l>
+               <l>Their Sins being harden'd, their Crimes are the more,</l>
+               <l>They wallow in Wickedneſs, ſwim in Exceſs,</l>
+               <l>Drowns the Reaſon of Man in the Torrent of Vice;</l>
+               <l>So given to Dream and to Doat upon Women,</l>
+               <l>It makes 'em not only Unchaſt, but Inhumane;</l>
+               <l>So hot are their Burning Deſires ſo unjuſt,</l>
+               <l>They wou'd Murder a Man to make way for their Luſt;</l>
+               <l>Defend a wrong Cauſe to the beſt of their Pow'r,</l>
+               <l>And Martyr themſelves for the Name of a <hi>Whore.</hi>
+               </l>
+               <l>
+                  <hi>Correction</hi> to them is like <hi>Paint</hi> to a Feature,</l>
+               <l>'Twill alter the Colour, but never the Nature;</l>
+               <l>For tho' they may ſeem to approve Reformation.</l>
+               <l>'Tis either for Int'reſt, or elſe for the Faſhion:</l>
+               <l>They go to the Church to inſpect what's a doing,</l>
+               <l>To See and be ſeen, is the end of their going.</l>
+               <l>They'll ſquint at the <hi>Parſon,</hi> and ſpit at each <hi>Sentence</hi>
+               </l>
+               <l>That does but ſo much as Conjecture <hi>Repentance.</hi>
+               </l>
+               <l>Thus they ſpin out the Thread of a Troubleſome Life,</l>
+               <l>As if they were going to Hell in a ſtrife;</l>
+               <l>At <hi>Tavern</hi> all Day, and to <hi>Play Houſe</hi> all Night,</l>
+               <l>To all ſorts of <hi>Fairs</hi> that can yield 'em Delight;</l>
+               <l>Living like <hi>Epicurus</hi> tell Death proves prevalent,</l>
+               <l>And calls 'em to give an Account of their Talent.</l>
+            </lg>
+            <lg>
+               <l>As ſoon as this Lew'd Congregation was paſt,</l>
+               <l>I pluck'd up my Heels, and I follow'd Poſt haſt,</l>
+               <l>Arriv'd at the <hi>Fair,</hi> where the firſt thing I 'ſpy'd,</l>
+               <l>Was a Hole like a Hogſty that ſtood on one ſide;</l>
+               <l>I was given to know, by an Implicit Notion,</l>
+               <l>'Twas a <hi>Temple</hi> that <hi>Fortune</hi> had Built for Devotion.</l>
+               <l>The Gaming Proficients was buſie as Bees</l>
+               <l>A purging the <hi>Pockets</hi> of Fools by degrees;</l>
+               <l>The Sots that was into their Company led,</l>
+               <l>Sat laying of Wagers and Scratching their heads:</l>
+               <l>Some Wiſhing for Luck, ſome Lamenting their Caſe;</l>
+               <l>Some Swearing the D—l had Conjour'd the Dice:</l>
+               <l>Some Winners a Health to Dame <hi>Fortune</hi> was Drinking,</l>
+               <l>And ſome that had Loſt all, was D—ing and Sinking.</l>
+            </lg>
+            <lg>
+               <l>I left 'em deſigning to paſs further on.</l>
+               <l>And as I was making my way thro' the Throng;</l>
+               <l>Sir, ſays one here's an <hi>Ape</hi> that will pleaſe you I'm cer<g ref="char:EOLhyphen"/>tain,</l>
+               <l>He Dances ſo rarely, ſo nice, ſo diverting;</l>
+               <l>That all that has ſeen him his Praiſes redoubles,</l>
+               <l>He's the common Diſcourſe of the Mob and the Nobles.</l>
+               <l>He Cuts you a Caper three Foot from the Ground,</l>
+               <l>And Dances expertly the whole <hi>Cheſhire</hi> round.</l>
+               <pb facs="tcp:43822:2"/>
+               <l>I ſtood all the while like a Man that admir'd,</l>
+               <l>And ſeem'd to be taken with what I had hear</l>
+               <l>But troth I cou'd hardly from Laughing eſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ap</l>
+               <l>To hear how the <hi>Monkey</hi> commended the <hi>Ape:</hi>
+               </l>
+               <l>However to plesſure the Coxcomb I enter'd,</l>
+               <l>And into Kennel my Carcaſe I ventur'd:</l>
+               <l>Where a noiſe Society Crowded the Room,</l>
+               <l>Be<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s, Bl<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> heads and all came to ſee a Babo</l>
+               <l>I Glutted my Eyes with a narrow Inſpection,</l>
+               <l>And out again went to behold a Tranſaction,</l>
+               <l>Befall'n in the Rabble. The ſum of which St.</l>
+               <l>Is here in it's order inſerted before ye.</l>
+            </lg>
+            <lg>
+               <l>A Rev'rend Quaker that had been out of Tow,</l>
+               <l>And came thro' the <hi>Fair</hi> in his Journey t'wards Home.</l>
+               <l>In a Sanctifv'd poſture he ſat on his Steed,</l>
+               <l>And look't like the Picture of Ven'rable <hi>Bede:</hi>
+               </l>
+               <l>His Hat was ſo broad it would keep I'll maintain,</l>
+               <l>Not only his Head but his Horſe from the Rain.</l>
+               <l>The days of Years had ſo infeebl'd his ſtrength,</l>
+               <l>His Beard and his Neckcloth was both of a length.</l>
+               <l>No more was he mov'd at the Tumult and Noiſe,</l>
+               <l>Then a Statue of Stone, at the ſhouting of Boys.</l>
+               <l>He came to a Place which the Mob did Protect,</l>
+               <l>And made all the Paſſengers ſhow 'em Reſpect;</l>
+               <l>They call'd to the Quaker to pull of his Hat,</l>
+               <l>In Token of Love to the <hi>Queen</hi> and the <hi>State.</hi>
+               </l>
+               <l>Not he (Abſolutely) he ſat like a Man</l>
+               <l>That was going to Die, or like one in a Dream;</l>
+               <l>The Vulgar begun by the Garments to ſhake him,</l>
+               <l>And ſwore by the L—d if he wou'd not they'd make him.</l>
+               <l>The Hubbub created a great deal of <hi>Laughter,</hi>
+               </l>
+               <l>But ſtill he remain'd like a <hi>Sheep</hi> for the <hi>Slaughter;</hi>
+               </l>
+               <l>His <hi>Horſe</hi> ſeem'd concern'd at the Fatal Diſaſter,</l>
+               <l>As if he had borrow'd his Looks from his Maſter:</l>
+               <l>So Serious a Frame was his Countenance ſet in;</l>
+               <l>I'm apt to believe he was Foal'd at the Meeting.</l>
+               <l>But to turn to the Story, the Mob grew ſo Rude,</l>
+               <l>So jumbl'd my Friend in the midſt of the Crowd;</l>
+               <l>Continuing ſtill to deny their Deſire,</l>
+               <l>They tumbled both him and the Colt in the Mire;</l>
+               <l>I wonder that People ſhou'd be ſo uncivil,</l>
+               <l>They made him as Dirty and Black as the D—l.</l>
+               <l>His Horſe was as bad, as I hope to be Bleſt,</l>
+               <l>One could hardly diſtinguiſh the Man from the Beaſt;</l>
+               <l>Then Riſes the Quaker, Inſpir'd with a Rapture,</l>
+               <l>And throws at his Foes a whole Mouthful of Scripture.</l>
+               <l>
+                  <hi>Oh when ſhall the Wicked their Puniſhment find,</hi>
+               </l>
+               <l>
+                  <hi>And when ſhall their Wickedneſs come to an end.</hi>
+               </l>
+               <l>He ſpoke much of who ſhould the Kingdom inherit,</l>
+               <l>'Twas thought the Old Rogue was poſſeſt with a <hi>Spirit.</hi>
+               </l>
+               <l>He rail'd againſt Churchmen, but highly extoll'd,</l>
+               <l>His Friends whom he there call'd the ſheep of his Fold:</l>
+               <l>He plac'd them in Heaven, and yet could not ſpare,</l>
+               <l>One Inch of the Place for the Goats in the <hi>Fair.</hi>
+               </l>
+               <l>But ſeeing his Goſpel found no Acceptation,</l>
+               <l>He begins with his Horſe to remove from that ſtation.</l>
+               <l>Creps out of the Crowd from the midſt of his Foes,</l>
+               <l>Then preſently ſhakes off the Duſt from his Shoes.</l>
+               <l>
+                  <hi>This,</hi> ſays he, <hi>is to Witneſs your being abſur'd,</hi>
+               </l>
+               <l>
+                  <hi>Your Stoning the Prophet, and Scorning the Word.</hi>
+               </l>
+               <l>It Vext me to ſee an Old Logger-Head Doat,</l>
+               <l>He'd more need have ſhaken the Dirt off his Coat,</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ft him and came where a Man and his Bride,</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>th <hi>Lazarus</hi>'s Poorneſs, and <hi>Luciſers</hi> Pride,</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>s going along with ſtrong Eiquor well loaded,</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Huffing, the Tumult becauſe they were Crowded.</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>r had they gone far till they met in their way,</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ouple as Proud and as Ragged as they:</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>riving for th' Wall with a bent Reſolution,</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>re happe <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> amongſt 'em a horrid Confuſion.</l>
+               <l>Women a void of good manners as Riches,</l>
+               <l>place themſelves under the Title of <hi>Bitches,</hi>
+               </l>
+               <l>the Men who was Drunk, and as Dirty as Hogs,</l>
+               <l>be even with their Wives call'd one another <hi>Dogs.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Oh what a Noiſe and a Rout was between 'em,</l>
+               <l>A Man at Deaths Door wou'd have Laugh'd to've ſeen 'em.</l>
+               <l>They ſcolded and talk of the Law and Enditing,</l>
+               <l>The Bitches Bark'd on, but the Dogs went to Fighting;</l>
+               <l>And they Anſwer'd the Name of a Dog in the cloſe.</l>
+               <l>For the Weapons they us'd was their Teeth and their Paws.</l>
+               <l>As ſoon as the Women had weary'd their Tongues,</l>
+               <l>Then Blows were Elected to reconcile Wrongs;</l>
+               <l>They call'd themſelves Bitches and ſuch ſort of Brats,</l>
+               <l>But truly they Fought like a couple of Cats;</l>
+               <l>For never ſuch ſcratching did Mortal behold,</l>
+               <l>No Tygers more fiercer, nor Dragon more bold;</l>
+               <l>However at laſt they began to Diſſent,</l>
+               <l>But ſeem'd to be rather Fatigu'd than Content.</l>
+            </lg>
+            <lg>
+               <l>I enter'd the Village, and came to a Room,</l>
+               <l>That was all in a Sweat with a ſmoaky Perfume,</l>
+               <l>Where <hi>Robin</hi> and <hi>Eaſter</hi> was always Embracing;</l>
+               <l>For my part I thought they wou'd ne'er have done Kiſſing</l>
+               <l>He hung by her Neck his dear <hi>Darling</hi> he Vow'd her,</l>
+               <l>There he ſlaver'd and ſuckt like a Calf, at ad Udder</l>
+               <l>When the Women with had gluttered the Fools,</l>
+               <l>They all fell a Roaring like ſo many Bulls,</l>
+               <l>
+                  <hi>Here bieng us ſome Meat, or we'll tarry no longer;</hi>
+               </l>
+               <l>
+                  <hi>What a Plague we are ready to Famiſh with Hunger:</hi>
+               </l>
+               <l>
+                  <hi>'Tis ready e're this, or ſome Witchcraft is in it;</hi>
+               </l>
+               <l>
+                  <hi>The</hi> Drawer replies <hi>Sirs 'twill come in a minute:</hi>
+               </l>
+               <l>Then each draws a <hi>Cut-Laſh</hi> twelve Inches at leaſt,</l>
+               <l>A Weapon more fit for a Fight than a Feaſt;</l>
+               <l>And up comes poor <hi>Jack</hi> in a moment of time,</l>
+               <l>And brought a whole diſhful of Pork for the Swine,</l>
+               <l>'Twas ſcarcely well plac'd on the Table with Care,</l>
+               <l>But every Man was Contending for ſhare:</l>
+               <l>
+                  <hi>Confound you,</hi> ſays one, <hi>ye Great Cur you'll provoke me,</hi>
+               </l>
+               <l>
+                  <hi>Will you never have done with your Cutting, Plague Choak<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ye?</hi>
+               </l>
+               <l>
+                  <hi>You be Hang'd,</hi> ſays the other, <hi>What is there not Room?</hi>
+               </l>
+               <l>So then the Complainer begins to fall on,</l>
+               <l>With a decent Deportment as Man could well wiſh,</l>
+               <l>One Hand at the Mouth, and th' other at Diſh;</l>
+               <l>They grumbl'd as long as there was ought to ſhare on,</l>
+               <l>Like my <hi>Lord-Mayors</hi> Dogs o'er a Morſel of Carrion.</l>
+               <l>Here's one was a Bawling, <hi>You've taken my Piece,</hi>
+               </l>
+               <l>Another was up to the Knuckles in Greaſe:</l>
+               <l>A third had but juſt Cut a bit of the Lean,</l>
+               <l>The reſt was all gone; what a Pox did they mean?</l>
+               <l>With Chawing and Talking, Foming and Frothing,</l>
+               <l>They gave me a Dinner, and yet I Eat nothing:</l>
+               <l>But this was the heft, when they'd ſwallow'd their Food;</l>
+               <l>They ſnuff'd up their Noſes, and then <hi>'twas not good.</hi>
+               </l>
+               <l>
+                  <hi>No, Rot it,</hi> ſays one <hi>it was troubleſom tough;</hi>
+               </l>
+               <l>Another cries out that <hi>it was not enough;</hi>
+               </l>
+               <pb n="3" facs="tcp:43822:2"/>
+               <l>However they ceas'd to reflect in that ſort,</l>
+               <l>and ſent for a Fidler to make 'em ſome ſport;</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hen preſently up came a poor ragged Fellow,</l>
+               <l>Who reckon'd himſelf to be Son of <hi>Atollo;</hi>
+               </l>
+               <l>He ſtruck up his Notes like a couragious Man,</l>
+               <l>So now was the time that Diverſion began:</l>
+               <l>The firſt of this Country Breed that came on,</l>
+               <l>In order for Dancing was <hi>Roger</hi> and <hi>Joan</hi>
+               </l>
+               <l>The latter of which I muſt needs Paraphraſe</l>
+               <l>A little upon her, by way of her Praiſe.</l>
+               <l>Kind Nature ſo nicely the Artiſt had play'd,</l>
+               <l>The Hair of her Eye-Brows, and that of her Head,</l>
+               <l>Had drawn up their growths to ſo little a diſtance,</l>
+               <l>As if they were mindful to ſcrape an Acquaintance:</l>
+               <l>Her Noſtrils I found was not troubl'd with ſtoping,</l>
+               <l>A jucy Elixir was always a dropping;</l>
+               <l>Her Mouth always open, as if it was willing</l>
+               <l>To be a Gally-Pot for her Noſe to diſtill in:</l>
+               <l>Her Tongue was ſo ſhort, one cou'd ſcarcely diſtinguiſh,</l>
+               <l>By her Speech, what ſhe was, whe her <hi>Greecian</hi> or <hi>Engliſh</hi>
+               </l>
+               <l>Her Chin was in length about four Inches long,</l>
+               <l>I ſuppoſe to ſupply the defects of her Tongue;</l>
+               <l>Her Breaſts was as white as the Sole of my Shoe.</l>
+               <l>Without all Diſpute ſhe was cleanly below;</l>
+               <l>Her Viſage was large, and her Stature was tall;</l>
+               <l>And yet notwithſtanding her Waſte was ſo ſmall,</l>
+               <l>To ſpeak the plain Truth; 'tis below me to Flout her,</l>
+               <l>A ſtring of three yards wou'd a gone 'twice about her:</l>
+               <l>However this Beauty was brought to the Floor,</l>
+               <l>In order to Dance as I toll ye before:</l>
+               <l>And had <hi>Heraclitus</hi> been living and there,</l>
+               <l>I am <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> could not Laughing forbear,</l>
+               <l>She took not the Dancing-School method, not ſhe,</l>
+               <l>To Skip, and to Frisk, and to bend with the Knee.</l>
+               <l>Oh ſhe was more ſtedfaſt, ſhe hated to ſham,</l>
+               <l>Her Skippings and Motions was one and the ſame;</l>
+               <l>She minded not how the Muſitian did ſtrike,</l>
+               <l>Change Notes, or change Tunes, ſhe was always a like.</l>
+               <l>The Fidler ſtruck up the Concluſion, but <hi>Joan</hi>
+               </l>
+               <l>Had not done with her dance, tho' he'd done with his tune</l>
+               <l>Her Skill was ſo good (one wou'd ſcarcely believe it)</l>
+               <l>She danc'd full as well without Muſick as with it;</l>
+               <l>Till quite fatiguated with Skipping about,</l>
+               <l>They paid the poor Scraper, and bid him turn out.</l>
+               <l>So when they began to be ſeemingly dull,</l>
+               <l>And ſilent like Hogs, when their Bellies are full:</l>
+               <l>But Silence made way for another Diſcourſe;</l>
+               <l>The Subſtance of which I will brieſly rehearſe.</l>
+            </lg>
+            <lg>
+               <l>Two Critical Sophiſters fat at a Table;</l>
+               <l>Directly oppoſing this ruſtical Rabble:</l>
+               <l>Whoſe Aſpects (and Habits ſo much out of Faſhion)</l>
+               <l>Beſpoke 'em the Converts of <hi>Calvin</hi>'s Perſwaſion:</l>
+               <l>They were mighty Devout, at the Government railing,</l>
+               <l>That here was a Fault in't, and there was a Failing.</l>
+               <l>Reflecting on Heroes promoted to Honour,</l>
+               <l>And laſhing <hi>Eccleſ<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> after this manner.</l>
+               <l>
+                  <hi>The Chnrch is a going to ſwallow down Pop'ry</hi>
+               </l>
+               <l>
+                  <hi>T've Bells at her Altars, and ſuch ſort of Fop'ry,</hi>
+               </l>
+               <l>
+                  <hi>Here's</hi> Good-Friday's, <hi>Birth-Days, and ſuch things kept holy,</hi>
+               </l>
+               <l>
+                  <hi>At firſt introduc'd by a Heatheniſh Folly,</hi>
+               </l>
+               <l>
+                  <hi>Here's</hi> Oxford <hi>and</hi> Cambridge <hi>are National Sluices,</hi>
+               </l>
+               <l>
+                  <hi>Lets into Divinity Popiſh Abuſes.</hi>
+               </l>
+               <l>
+                  <hi>In Churches they Pictures and Images raiſe,</hi>
+               </l>
+               <l>
+                  <hi>There was none of th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſe doings in</hi> Olivers <hi>Days.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Then up ſtarts a Plowman as Bold as a Lion,</l>
+               <l>And ſtretches his Throat in Defence of our <hi>Sion,</hi>
+               </l>
+               <l>Says he <hi>You're a couple of pittiſul Fellows,</hi>
+               </l>
+               <l>
+                  <hi>And deſerves not ſo Noble a Death as the Gallows.</hi>
+               </l>
+               <l>
+                  <hi>You're Sons of</hi> Ingratitude, <hi>Children of</hi> Spleen.</l>
+               <l>
+                  <hi>You <gap reason="illegible" resp="#UOM" extent="4+ letters">
+                        <desc>••••…</desc>
+                     </gap>ure our Churches, you rail at my Queen.</hi>
+               </l>
+               <l>
+                  <hi>You banter the Nation?—Ad Rat ye come out.</hi>
+               </l>
+               <l>
+                  <hi>I'll make you to ſwallow theſe Words down your Throat,</hi>
+               </l>
+               <l>
+                  <hi>Bath you and your Sect are the Governments Lees,</hi>
+               </l>
+               <l>
+                  <hi>You'd Ruin the Realm for a Two Penny Piece.</hi>
+               </l>
+               <l>
+                  <hi>Diſcontent has been ever your Fathers Corruption,</hi>
+               </l>
+               <l>
+                  <hi>So th' Venom remains in the Sons by Adoption:</hi>
+               </l>
+               <l>
+                  <hi>Who ſtill are Subjected to Envious Railing,</hi>
+               </l>
+               <l>
+                  <hi>And as for Old</hi> Oliver, <hi>be was a Villain;</hi>
+               </l>
+               <l>
+                  <hi>For all he Uſurpt ſuch a Petulant Power.</hi>
+               </l>
+               <l>
+                  <hi>I ſay the Old Knave was a Son of W—</hi>
+               </l>
+               <l>
+                  <hi>The Rogues in thoſe Days did a Brewer Exalt.</hi>
+               </l>
+               <l>
+                  <hi>He fit for a Monarch!—He fit to Drain Malt!</hi>
+               </l>
+               <l>
+                  <hi>A delicate Fellow to bear ſuch Command,</hi>
+               </l>
+               <l>
+                  <hi>He fit for a Scepter! — He fit to be Hang'd!</hi>
+               </l>
+               <l>
+                  <hi>A Tyrant, and all that Aſſiſted to Raiſe him,</hi>
+               </l>
+               <l>
+                  <hi>Were Traitors, and your are no better that Praiſe him.</hi>
+               </l>
+               <l>
+                  <hi>Pray who was it brought the Diſtreſs on this Nation;</hi>
+               </l>
+               <l>
+                  <hi>Who made the Attempt on that Royal Invaſion?</hi>
+               </l>
+               <l>
+                  <hi>Who baniſh'd the Iſſue, and Murder'd the Father?</hi>
+               </l>
+               <l>
+                  <hi>'Twas him and the Pope and the Devil together.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Then,</hi> ſays the Diſſenter, <hi>I wiſh you'd be eaſie.</hi>
+               </l>
+               <l>
+                  <hi>I'm ſorry that what I have ſaid ſhou'd diſpleaſe ye,</hi>
+               </l>
+               <l>
+                  <hi>But as for my Branding the Church with Deluſion,</hi>
+               </l>
+               <l>
+                  <hi>I tell you again 'tis a Maſs of Confuſion.</hi>
+               </l>
+               <l>
+                  <hi>Ill ſhow you</hi> Verbatim, <hi>where it is Faulty,</hi>
+               </l>
+               <l>
+                  <hi>The dangerous Errors whereof it is Guilty.</hi>
+               </l>
+               <l>
+                  <hi>Your Bowing to th' Alter, is rank Superſtition,</hi>
+               </l>
+               <l>
+                  <hi>A Cantinuation of Popiſh Tradition.</hi>
+               </l>
+               <l>
+                  <hi>Your Croſſes in Baptiſm, God Father binding</hi>
+               </l>
+               <l>
+                  <hi>Is all inſignificant, not worth your minding.</hi>
+               </l>
+               <l>
+                  <hi>The Organs inſtead of Devotion advancing,</hi>
+               </l>
+               <l>
+                  <hi>Sarves only to ſet Peoples Humours a Dancing.</hi>
+               </l>
+               <l>
+                  <hi>The Surplice Corrupts the poor Maids at their Hearts,</hi>
+               </l>
+               <l>
+                  <hi>It makes them to think upon Men in their Shirts.</hi>
+               </l>
+               <l>
+                  <hi>And as for the Converts your bleſt Prayers makes,</hi>
+               </l>
+               <l>
+                  <hi>The beſt of your Church are a parcel of Rakes.</hi>
+               </l>
+               <l>
+                  <hi>As I hope to be ſav'd they are ſo Prophane,</hi>
+               </l>
+               <l>
+                  <hi>So given to ſwear, by my Soul 'tis a Shame.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Well, this is a Man,</hi> ſays the Plowman, <hi>worth hearing,</hi>
+               </l>
+               <l>
+                  <hi>He ſwears a great Oath we are given to Swearing:</hi>
+               </l>
+               <l>
+                  <hi>But now you have ended, I hope, as 'tis fitting,</hi>
+               </l>
+               <l>
+                  <hi>You'll ceaſe till I draw ye a Draught of the Meeting.</hi>
+               </l>
+               <l>
+                  <hi>I ſcorn to reflect, or reproach you with Lies;</hi>
+               </l>
+               <l>
+                  <hi>I'll only repeat what I ſaw with my Eyes</hi>
+               </l>
+               <l>
+                  <hi>For being in</hi> London, <hi>that Harbour of Vermin,</hi>
+               </l>
+               <l>
+                  <hi>One Sunday I went in queſt of a Sermon.</hi>
+               </l>
+               <l>
+                  <hi>Deſigning the Church for my Refuge that Day,</hi>
+               </l>
+               <l>
+                  <hi>But dropt in a</hi> Puritans <hi>Cell by the way,</hi>
+               </l>
+               <l>
+                  <hi>Where a canting Concourſe of irreverent Sinners,</hi>
+               </l>
+               <l>
+                  <hi>Were ſiting without either Motion or Manners.</hi>
+               </l>
+               <l>
+                  <hi>Here one in a Corner was plac'd very cloſe,</hi>
+               </l>
+               <l>
+                  <hi>A pulling his Hat o'er his Eyes and his Noſe;</hi>
+               </l>
+               <l>
+                  <hi>Another lewd Hypocrite ſeated apart,</hi>
+               </l>
+               <l>
+                  <hi>With a Saint in his Looks, and a Satan in's Heart.</hi>
+               </l>
+               <pb n="4" facs="tcp:43822:3"/>
+               <l>
+                  <hi>By and by came a Man with a Cloak on his Back,</hi>
+               </l>
+               <l>
+                  <hi>A Book in his Hand, and a Band round his Neck,</hi>
+               </l>
+               <l>
+                  <hi>Went creeping along like a poor helpleſs Creature<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi>
+               </l>
+               <l>
+                  <hi>Arreſted by all the Diſeaſes in Nature.</hi>
+               </l>
+               <l>
+                  <hi>He Hops to the Pulpit as faſt as he cou'd,</hi>
+               </l>
+               <l>
+                  <hi>And ſcarce had he got to that Hovel of Wood,</hi>
+               </l>
+               <l>
+                  <hi>Before Maſter</hi> Clericus <hi>clear'd up his Throat,</hi>
+               </l>
+               <l>
+                  <hi>And preſently ſet 'em a Pſalm to Chant out.</hi>
+               </l>
+               <l>
+                  <hi>They all fell a Singing ſome Treble ſome Baſe,</hi>
+               </l>
+               <l>
+                  <hi>As if they were Humming of Old</hi> Chivy-Chafe.</l>
+               <l>
+                  <hi>Their Concording Voices ſo Harmonious were,</hi>
+               </l>
+               <l>
+                  <hi>'Twas enough to 've Raviſht a Hedge-Hog I'll ſwear.</hi>
+               </l>
+               <l>
+                  <hi>As ſoon as the Choriſters made a Concluſſion,</hi>
+               </l>
+               <l>
+                  <hi>The Preacher ſtarts up with a</hi> Calvins <hi>Commiſſion.</hi>
+               </l>
+               <l>
+                  <hi>He wrinkled his Forehead, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e lean'd on his Book,</hi>
+               </l>
+               <l>
+                  <hi>And ſhow'd us how much like an Aſs he cou'd look.</hi>
+               </l>
+               <l>
+                  <hi>Transforming his Aſpect with I deots Frenzies,</hi>
+               </l>
+               <l>
+                  <hi>As if God Almighty was Pleaſur'd with Whimſies',</hi>
+               </l>
+               <l>
+                  <hi>As if the Eternal Creator of Man,</hi>
+               </l>
+               <l>
+                  <hi>Took Pleaſure in ſeeeing Men alter his Frame:</hi>
+               </l>
+               <l>
+                  <hi>He ſeem'd to make Apiſh Behaviour a Rule,</hi>
+               </l>
+               <l>
+                  <hi>He apear'd in his Prayer ſo much of a Fool;</hi>
+               </l>
+               <l>
+                  <hi>So much of a Mimick, (to ſpeak without Jearing.</hi>
+               </l>
+               <l>
+                  <hi>He'd make a rare</hi> Barth'lomew-Fair <hi>Pickle-Herridge<g ref="char:punc">▪</g>
+                  </hi>
+               </l>
+               <l>
+                  <hi>His</hi> Prologue <hi>was tedious, and yet the I—,</hi>
+               </l>
+               <l>
+                  <hi>Concluded invoking without</hi> Pater-Noſter.</l>
+               <l>
+                  <hi>Being paſt one good Duty he went to the next,</hi>
+               </l>
+               <l>
+                  <hi>(Having Grumbled a Prayer) to Grope out a Text.</hi>
+               </l>
+               <l>
+                  <hi>In the Fourth of</hi> Malachi, <hi>the firſt of thoſe Verſes,</hi>
+               </l>
+               <l>
+                  <hi>And there a long Cat'logue of Judgment Rehearſes,</hi>
+               </l>
+               <l>
+                  <hi>Fr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m the Words and their Meaning, he took an Occaſion</hi>
+               </l>
+               <l>
+                  <hi>To Prea<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h to his Auditors Death and Damnations</hi>
+               </l>
+               <l>
+                  <hi>He began the Inevitable Doom to Denounce,</hi>
+               </l>
+               <l>
+                  <hi>And ſent a whole Heap to the Devil at once.</hi>
+               </l>
+               <l>
+                  <hi>The Hypocrite Men with a fair out ſide ſhell,</hi>
+               </l>
+               <l>
+                  <hi>He bid 'em go take up their Lodging in Hell.</hi>
+               </l>
+               <l>
+                  <hi>The next that he threw into</hi> Lucifers <hi>Scopes,</hi>
+               </l>
+               <l>
+                  <hi>Was a Bundle of</hi> Whores, <hi>and a Mouthful of</hi> Popes.</l>
+               <l>
+                  <hi>I laught in my ſelf till it tickl'd my ſides,</hi>
+               </l>
+               <l>
+                  <hi>To ſee the Old Women a ſhaking their Heads.</hi>
+               </l>
+               <l>
+                  <hi>To ſee the Old Sinners Confuſedly ſtand,</hi>
+               </l>
+               <l>
+                  <hi>When the Preacher avoucht that the Whores wou'd be Damn'd,</hi>
+               </l>
+               <l>
+                  <hi>The Heart of the Prophet was ſo ſet in ire,</hi>
+               </l>
+               <l>
+                  <hi>His Lips ſpoke of nothing but Brimſtone and Fire:</hi>
+               </l>
+               <l>
+                  <hi>I turn'd my ſelf round and began to march out,</hi>
+               </l>
+               <l>
+                  <hi>For I never lov'd Doctrine ſo Sulphcrous hot.</hi>
+               </l>
+               <l>
+                  <hi>Well,</hi> ſays the Diſſenter, <hi>I take no Regard,</hi>
+               </l>
+               <l>
+                  <hi>You may certainly one Day expect your Reward;</hi>
+               </l>
+               <l>
+                  <hi>I leave it to him that can Cenſure you beſt,</hi>
+               </l>
+               <l>
+                  <hi>You've rail'd at the Prophet and People of Chriſt.</hi>
+               </l>
+               <l>
+                  <hi>Upbraiding the Church with the Name of a Cell,</hi>
+               </l>
+               <l>
+                  <hi>And ſpeaking thoſe things that became re not well.</hi>
+               </l>
+               <l>
+                  <hi>Yet this I will ſay in Defience of our Church,</hi>
+               </l>
+               <l>
+                  <hi>It is not your Steeple, it is not your Porch,</hi>
+               </l>
+               <l>
+                  <hi>That makes yours a Temple, nor looking ſo comely,</hi>
+               </l>
+               <l>
+                  <hi>A Church is a Church, tho' 'tis never ſo homely.</hi>
+               </l>
+               <l>And then to Atteſt it, and thow his ſelf Learned,</l>
+               <l>He fetches Quotations from <hi>Auſtin</hi> and <hi>Bernard.</hi>
+               </l>
+               <l>Then on went the Plowman as fierce as <hi>Achillis,</hi>
+               </l>
+               <l>And Buffets him out of <hi>Sententia Plurillis,</hi>
+               </l>
+               <l>(Poor Plowman) his Brains, by the Heat of the Weather,</l>
+               <l>Were apt to make Latin and Nonſence together.</l>
+               <l>To the Fathers for Proof he would willingly fly,</l>
+               <l>But <hi>Grammarian</hi> Wings could not bear him ſo high.</l>
+               <l>The other Battalion for motion prepares,</l>
+               <l>Yet give him ſharp words as he went down the Stairs.</l>
+               <l>The Plowman could hardly from Fighting deſiſt,</l>
+               <l>He would needs make his Arguments good with his Fiſt;</l>
+               <l>By many perſwaſions the Blows were Diverted,</l>
+               <l>The Clamour Concluded, the Company Parted.</l>
+            </lg>
+            <lg>
+               <l>Having ſeen all this Tumult, I call'd to the Drawer,</l>
+               <l>To give me a faithful Account of my Score:</l>
+               <l>He told me, and when I had paid him his due,</l>
+               <l>I left the Houſe (juſt as I found it) a Stew,</l>
+               <l>I ventur'd my Carkaſs once more in the Crowd,</l>
+               <l>And was horridly ſqueez'd with a Reprobate Brood</l>
+               <l>Of Soldiers, whoſe Motto, it 'tis not miſtaken,</l>
+               <l>Is <hi>Semper Eadem,</hi> the Servants of Satan.</l>
+               <l>I durſt not look up at the <hi>Andrews</hi> and Block-heads,</l>
+               <l>My Eyes was to buſily fixt on my Pockets.</l>
+               <l>Yet heard 'em Bawl unto the People that Sinning,</l>
+               <l>Deluding and Cheating was juſt a beginning;</l>
+               <l>
+                  <hi>There was Whore to be le<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Cheap enough in all reaſon,</hi>
+               </l>
+               <l>
+                  <hi>A Man <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ight have hir'd 'em for Six pence a dozen;</hi>
+               </l>
+               <l>
+                  <hi>Or have bought for a Noble a Score on a heap,</hi>
+               </l>
+               <l>
+                  <hi>The Bitches might well be accounted Dog cheap.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>When I got from the Mob, it began to grow dark,</hi>
+               </l>
+               <l>
+                  <hi>So I came with all ſpeed to St.</hi> James's Park;</l>
+               <l>Being Hungry (and haſty to get a Remedy)</l>
+               <l>I walk't till I o'er took a Beau and his Lady.</l>
+               <l>Excuſe me, and take it to be no Abruption,</l>
+               <l>If here I preſent you his Beauſhips Diſcription.</l>
+               <l>He look't at a diſtance a terrible Hero,</l>
+               <l>I took hi<gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>firſt<gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Country <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Crow;</l>
+               <l>And when I came nigh I proteſt he was like one,</l>
+               <l>His Wig was ſo monſtrous, I vow it wou'd fright one</l>
+               <l>It was made like a Swadling Cloth for a Horſe,</l>
+               <l>Not only to cover his Neck but his Arſe;</l>
+               <l>It reach'd from his Head very nigh to his Garter;</l>
+               <l>'Twas a good handſome Load for an ord'nary Porter:</l>
+               <l>The Powder on his Garment was harbour'd ſo thick,</l>
+               <l>That if it ſhou'd Rain, 'twou'd make Dough on his Back.</l>
+               <l>He pluckt up his Pedeſtals quick as a Rappet,</l>
+               <l>And ſtruted along like a <hi>Barth'lomew</hi> Poppet.</l>
+               <l>His Delight was to Dance, you might tell by his tread</l>
+               <l>That he carry'd more Wit in his Heels than his Head.</l>
+               <l>His Stature was large, yet his Sword was ſo ſhort,</l>
+               <l>He reſolves when he Fights he'll do no Body hurt:</l>
+               <l>I perceiv'd by the Hilt 'twas not prone to Abuſe;</l>
+               <l>For 'twas Ruſty,—a ſign 'twas ſeldom in uſe.</l>
+               <l>His Legs was as thick (if I cenſure not wtong)</l>
+               <l>As a Conſtables Staff, and almoſt quite as long.</l>
+               <l>His Tongue never ceaſt, for his Humours is ſuch,</l>
+               <l>He thinks he talks well, if he does but talk much.</l>
+               <l>Still Chawing of ſomething to Sweeten his Breath;</l>
+               <l>And always a Grinning and ſhowing his Teeth,</l>
+               <l>With ſuch ſort of Freazies, which ſerv'd to explain</l>
+               <l>That the Coxcomb was more of a Monkey than Man.</l>
+               <l>A fine Painted Snuff-Box his Idol was made;</l>
+               <l>Deprive him of that, you'd as good take his Head.</l>
+               <l>'Tis Snuff, he ſuppoſes, his Briskneſs maintains,</l>
+               <l>Some thinks that it cauſes Defects in the Veins;</l>
+               <l>And I'm of Opinion it eat up his Brains.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
